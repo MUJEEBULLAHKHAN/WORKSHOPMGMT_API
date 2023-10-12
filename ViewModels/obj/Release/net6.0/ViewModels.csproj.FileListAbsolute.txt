@@ -1,0 +1,12 @@
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\bin\Release\net6.0\ViewModels.deps.json
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\bin\Release\net6.0\ViewModels.dll
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\bin\Release\net6.0\ViewModels.pdb
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\obj\Release\net6.0\ViewModels.csproj.AssemblyReference.cache
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\obj\Release\net6.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\obj\Release\net6.0\ViewModels.AssemblyInfoInputs.cache
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\obj\Release\net6.0\ViewModels.AssemblyInfo.cs
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\obj\Release\net6.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\obj\Release\net6.0\ViewModels.dll
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\obj\Release\net6.0\refint\ViewModels.dll
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\obj\Release\net6.0\ViewModels.pdb
+D:\AtoZProjects\WorkshopMgmt\WorkshopMgmt\ViewModels\obj\Release\net6.0\ref\ViewModels.dll

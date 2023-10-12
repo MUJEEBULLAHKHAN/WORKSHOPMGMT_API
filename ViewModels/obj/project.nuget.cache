@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TS82fS1REsCtNzFL5F1Bokr5LZkNtG031ecH00YMfllv3J6LYPCMX1dCic32IHGfkEn0ClOPsTSyz83hnPZpPg==",
+  "success": true,
+  "projectFilePath": "D:\\AtoZProjects\\WorkshopManager\\WorkshopMgmt\\ViewModels\\ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
